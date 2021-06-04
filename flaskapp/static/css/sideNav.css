@@ -20,7 +20,7 @@
 .explore_items_container,
 .add_items_container,
 .courses_items_container {
-  background-color: rgba(111, 106, 114, 0.15);
+  background-color: rgba(77, 4, 14, 0.15);
   padding: 5px;
 
   margin: 0;
@@ -29,7 +29,7 @@
 .explore_items,
 .add_items,
 .courses_items {
-  background-color: white;
+  background-color: rgb(83, 34, 34);
   /*color: rgba(76, 76, 76, 1);*/
   color : #4c4c4c;
   display: flex;
