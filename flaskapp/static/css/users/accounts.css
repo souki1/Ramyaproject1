@@ -6,7 +6,7 @@
 }
 
 #account_form {
-  background-color: rgba(144, 0, 240, 0.15);
+  background-color: rgba(193, 179, 202, 0.15);
 
   overflow-y: auto;
   padding: 10px;
@@ -14,7 +14,7 @@
 }
 
 #account_info {
-  background-color: rgba(144, 0, 240, 0.76);
+  background-color: rgba(218, 209, 224, 0.76);
   color: white;
   font-size: 20px;
 

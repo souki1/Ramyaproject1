@@ -129,7 +129,7 @@ body {
 }
 
 .dropdown_items_container {
-  background-color: rgba(144, 0, 240, 1);
+  background-color: rgb(239, 235, 241);
   display: none;
   left: 0;
   margin: 0;
@@ -173,7 +173,7 @@ body {
   margin: 0;
   display: block;
   transition: 1s;
-  background: #9000f0;
+  background: #ccc1d3;
 }
 
 #footercontent {

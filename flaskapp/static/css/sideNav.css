@@ -9,7 +9,7 @@
 #add_title,
 #courses_title {
   align-items: center;
-  background-color: rgba(144, 0, 240, 0.76);
+  background-color: rgba(230, 224, 235, 0.76);
   color: white;
   display: flex;
   font-family: "Montserrat", sans-serif;
@@ -20,7 +20,7 @@
 .explore_items_container,
 .add_items_container,
 .courses_items_container {
-  background-color: rgba(144, 0, 240, 0.15);
+  background-color: rgba(111, 106, 114, 0.15);
   padding: 5px;
 
   margin: 0;
