@@ -12,9 +12,9 @@
  <div class="dropdown_container">
      <h4 class="py-2 mx-3">More <i class="fa fa-caret-down"></i></h4>
      <div class="dropdown_items_container">
-         <!-- <a class="top_navigation_items" href={{ url_for("main.about_us") }}>
+         <a class="top_navigation_items" href={{ url_for("main.about_us") }}>
              <h4 class="py-2 mx-3">About Us</h4>
-         </a> -->
+         </a>
          <a class="top_navigation_items" href={{ url_for("main.help_page") }}>
              <h4 class="py-2 mx-3">Help</h4>
          </a>
@@ -38,7 +38,9 @@
   {% endblock special_side_links%}
   <div class="dropdown_container_2 bb bt">
       <span class="side_navigation_items">More <i class="fa fa-caret-down"></i></span>
-     
+      <a class="side_navigation_items hide" href={{ url_for("main.about_us") }}>
+          About Us
+      </a>
       <a class="side_navigation_items hide" href={{ url_for("main.help_page") }}>
           Help
       </a>
